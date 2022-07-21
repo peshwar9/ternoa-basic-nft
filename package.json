@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "ternoa-js": "^1.0.4"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
